@@ -10,3 +10,4 @@
 - Tunghai University
 
 # Computer Skill
+- so basic
