@@ -2,12 +2,11 @@
 
 
 # Job experience
-- Chef
-- Business owner
+- E Commerce Business
 
 # Education
-- Fu Jen University
-- Tunghai University
+- Fu Jen University - Food Science
+- Tunghai University - GMBA Program
 
 # Computer Skill
-- so basic
+- So basic
